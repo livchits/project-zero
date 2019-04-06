@@ -150,7 +150,7 @@ footer
 
 ### Fecha de entrega (Parte 3)
 
-TBD.
+11/13 de Abril, dependiendo en qué grupo estés.
 
 #### Estilos CSS
 
@@ -160,4 +160,6 @@ TBD.
 4. Transformar los `h3` para que siempre se vean en mayúsculas.
 5. Agregarle los estilos correspondientes a todas las imágenes del sitio para que sean *responsive*. **Pista:** alcanza con modificar ancho y alto de las mismas.
 6. Modificar el estilo de los links (anchors) de nuestra página, para que no tengan subrayado y su color sea `#0074c4`.
-7. *TBD: color y text-decoration de anchors on hover.*
+7. Modificar el estilo de los links (anchors) de nuestra página, para que tengan el color `##0098ff`y subrayado al hacer *hover* sobre los mismos.
+8. Flotar las secciones de publicidad y noticias recomendadas a la derecha para que se vean como en la imagen de referencia.
+9. Dejar un margen de `24px`entre las secciones de publicidad y noticias recomendadas y el `article` correspondiente a la noticia.
